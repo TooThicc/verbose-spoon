@@ -1,1 +1,1 @@
-body {color: #FFFFFF;background: url("https://i.imgur.com/tdobcMk.jpg");background-attachment: fixed;}
+body {background: url("https://i.imgur.com/tdobcMk.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
